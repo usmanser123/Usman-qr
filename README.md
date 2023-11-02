@@ -10,3 +10,6 @@ $ cd usman-qr
 $ npm i
 
 $ npm start
+
+
+ 1)      Adnangas1@
