@@ -11,5 +11,3 @@ $ npm i
 
 $ npm start
 
-
- 1)      Adnangas1@
